@@ -23,8 +23,6 @@ WebUI.navigateToUrl('https://www.google.com/?gws_rd=ssl')
 
 WebUI.click(findTestObject('Object Repository/Page_Google/img__W2aPtb'))
 
-WebUI.click(findTestObject('Object Repository/Page_Google/div_I agree'))
-
 WebUI.click(findTestObject('Object Repository/Page_Google Doodles/img'))
 
 WebUI.click(findTestObject('Object Repository/Page_Teachers Day 2021 (16 October)/img'))
